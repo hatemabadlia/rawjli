@@ -22,7 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import premiere from "./tech/premiere.png";
 import aftereffects from "./tech/after-effects.png";
-import Blender from "./tech/Blender.png";
+import Blender from "./tech/blender.png";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
