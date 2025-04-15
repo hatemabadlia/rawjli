@@ -26,7 +26,7 @@ const SuccessMetrics = () => {
           whileInView="visible"
           variants={numberVariant}
         >
-          <p className="text-[40px] font-bold">1.2M+</p>
+          <p className="text-[40px] font-bold">1.2k+</p>
           <p>Total Reach</p>
         </motion.div>
 
