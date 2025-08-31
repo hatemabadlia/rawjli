@@ -49,7 +49,7 @@ const Hero = () => {
         {/* HERO TEXT */}
         <div>
         <h1 className={`${styles.heroHeadText} text-white`}>
-  Welcome to <span className="text-[#08C0FC] drop-shadow-lg">rawejli</span>
+  Welcome to <span className="text-[#08C0FC] drop-shadow-lg">My Portfolio</span>
 </h1>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             <span className="text-[#08C0FC] font-bold">{displayText}</span>
@@ -58,7 +58,7 @@ const Hero = () => {
       </motion.div>
 
       {/* Background 3D Animation */}
-      <ComputersCanvas />
+      
 
       {/* Scroll Indicator */}
       <motion.div

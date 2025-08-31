@@ -40,15 +40,15 @@ const About = () => {
   return (
     <>
       <motion.div variants={textVariant()}>
-        <p className={styles.sectionSubText}>Who We Are</p>
-        <h2 className={styles.sectionHeadText}>About rawejli </h2>
+        <p className={styles.sectionSubText}>Who I'am</p>
+        <h2 className={styles.sectionHeadText}> abadlia hatem </h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-Rawejli (روجلي) is a marketing agency specializing in creative and strategic solutions to help businesses grow their brands and reach their target audiences effectively. The company provides a range of services, including digital marketing, social media management, branding, content creation, and advertising campaigns.
+   specializing in creative and strategic solutions to help businesses grow their brands and reach their target audiences effectively. The company provides a range of services, including digital marketing, social media management, branding, content creation, and advertising campaigns.
 
 With a strong focus on innovation and data-driven strategies, Rojewli helps businesses enhance their online presence, increase customer engagement, and drive sales. The agency prides itself on its ability to craft customized marketing plans tailored to the specific needs of each client, ensuring maximum impact and return on investment.
 

@@ -43,7 +43,7 @@ const Navbar = () => {
           }}
         >
           <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
-          <h1 className="text-[#08C0FC] font-bold text-2xl">rawejli</h1>
+          <h1 className="text-[#08C0FC] font-bold text-2xl">abadlia hatem</h1>
         </Link>
 
         <ul className='list-none hidden sm:flex flex-row gap-10'>

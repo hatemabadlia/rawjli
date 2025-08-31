@@ -36,7 +36,7 @@ const Contact = () => {
           from_name: form.name,
           to_name: "Hdtra Team",
           from_email: form.email,
-          to_email: "hdtracompany@gmail.com", // ✅ Hdtra's Real Email
+          to_email: "habadliahatem@gmail.com", // ✅ Hdtra's Real Email
           message: form.message,
         },
         import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
@@ -64,7 +64,7 @@ const Contact = () => {
         className="flex-[0.75] bg-[#1d1836] p-8 rounded-2xl shadow-lg"
       >
         <p className={styles.sectionSubText}>Let's Connect</p>
-        <h3 className={`${styles.sectionHeadText} text-[#915EFF]`}>Contact RAWEJLI</h3>
+        <h3 className={`${styles.sectionHeadText} text-[#915EFF]`}>Contact hatem</h3>
 
         <form ref={formRef} onSubmit={handleSubmit} className="mt-12 flex flex-col gap-8">
           
